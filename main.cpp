@@ -1,6 +1,6 @@
-#include <Player.h>
-#include <Enemy.h>
-#include <Battle.h>
+#include "Player.h"
+#include "Enemy.h"
+#include "Battle.h"
 
 int main() {
 	Player player("Ислам", 80, 6);
